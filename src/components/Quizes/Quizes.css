@@ -1,0 +1,20 @@
+.card{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.logo-bg{
+    background-color: lightgray;
+    width: 300px;
+}
+
+.quizes-btn a{
+    text-decoration: none;
+    color: white;
+    padding: 8px 20px;
+}
+
+.arrow-btn{
+    height: 20px;
+    padding-left: 3px;
+}

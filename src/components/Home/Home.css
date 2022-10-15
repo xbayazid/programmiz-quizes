@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+.home-btn{
+    background-color: black;
+    padding: 10px 20px;
+}
+
+.home-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.home h1{
+    font-size: 60px;
+}
+
+.home-img img{
+    margin-top: 50px;
+}
+

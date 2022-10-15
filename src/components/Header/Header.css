@@ -1,0 +1,13 @@
+.nav-link a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    margin-left: 30px;
+}
+
+.text-size{
+    font-size: 30px;
+}
+/* .nav-link a:hover{
+    border-top: 4px solid cornflowerblue;
+} */
